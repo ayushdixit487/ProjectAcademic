@@ -1,0 +1,6 @@
+framework module Pods_Acadmic {
+  umbrella header "Pods-Acadmic-umbrella.h"
+
+  export *
+  module * { export * }
+}
