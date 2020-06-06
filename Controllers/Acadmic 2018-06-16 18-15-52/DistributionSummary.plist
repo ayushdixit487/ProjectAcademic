@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Acadmic.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>060DC22CE3344BE360FA1B62A390C2C54A47279C</string>
+				<key>dateExpires</key>
+				<string>05/05/19</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>060DC22CE3344BE360FA1B62A390C2C54A47279C</string>
+						<key>dateExpires</key>
+						<string>05/05/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>ENSwiftSideMenu.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>GCH8A6B3U6</string>
+						<key>name</key>
+						<string>janardhan singla</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>GCH8A6B3U6.com.henceforth.all</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>GCH8A6B3U6</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>GCH8A6B3U6.com.henceforth.all</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Acadmic.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>0026bc90-9474-4fce-97bf-03f711c74292</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.henceforth.all</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>GCH8A6B3U6</string>
+				<key>name</key>
+				<string>janardhan singla</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
