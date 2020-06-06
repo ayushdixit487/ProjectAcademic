@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (4.7.2)
+  - Cosmos (16.0.0)
+  - CTKFlagPhoneNumber (0.4.7):
+    - libPhoneNumber-iOS
+  - ENSwiftSideMenu (0.1.1)
+  - IQKeyboardManagerSwift (6.0.3)
+  - libPhoneNumber-iOS (0.9.13)
+  - SwiftyJSON (4.1.0)
+  - YYCache (1.0.4)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYWebImage (1.0.5):
+    - YYCache
+    - YYImage
+
+DEPENDENCIES:
+  - Alamofire
+  - Cosmos (~> 16.0)
+  - CTKFlagPhoneNumber
+  - ENSwiftSideMenu
+  - IQKeyboardManagerSwift
+  - SwiftyJSON
+  - YYWebImage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Cosmos
+    - CTKFlagPhoneNumber
+    - ENSwiftSideMenu
+    - IQKeyboardManagerSwift
+    - libPhoneNumber-iOS
+    - SwiftyJSON
+    - YYCache
+    - YYImage
+    - YYWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  Cosmos: 7bcee0fa858a9355a214f2a181be5dffcee42c81
+  CTKFlagPhoneNumber: 692f00ef15200c8ddd980f201133ab5203704d37
+  ENSwiftSideMenu: a934caefbe811e4925f172009349da4a49901307
+  IQKeyboardManagerSwift: 04e8679f85e496bb2c474eeb9284052f1b3c391c
+  libPhoneNumber-iOS: e444379ac18bbfbdefad571da735b2cd7e096caa
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYWebImage: 5f7f36aee2ae293f016d418c7d6ba05c4863e928
+
+PODFILE CHECKSUM: 53df6198aa6a9e3984e254246d61cc8132ba19ac
+
+COCOAPODS: 1.5.3
